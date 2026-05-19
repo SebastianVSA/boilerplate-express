@@ -17,6 +17,7 @@ app.get('/json', function(req, res) {
   }
 });
 
+module.exports = app;
 
 
 
